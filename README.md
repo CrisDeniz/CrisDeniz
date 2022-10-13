@@ -1,8 +1,8 @@
 <h2>Olá, meu nome é Cristian Deniz e bem vindo ao meu GitHub</h2>
 
-<div display="flex">
-  <img height="195em" height="300em" src="https://github-readme-stats.vercel.app/api?username=CrisDeniz&theme=dracula" />
-  <img height="195em" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisDeniz&layout=compact&theme=dracula" />
+<div>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=CrisDeniz&theme=dracula" />
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisDeniz&layout=compact&theme=dracula" />
 </div>
 
 ##
