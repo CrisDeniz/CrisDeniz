@@ -2,7 +2,7 @@
 
 
 <div>
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=CrisDeniz&theme=dracula" />
+  <img width="52.5%" src="https://github-readme-stats.vercel.app/api?username=CrisDeniz&theme=dracula" />
   <img width="44%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisDeniz&layout=compact&theme=dracula" />
 </div>
 
